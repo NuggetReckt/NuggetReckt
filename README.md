@@ -5,5 +5,7 @@
 	🔸Pour projet de faire une école supérieure en informatique
 	🔸Je développe en html et css quelques fois...
 	🔸Je suis en train d'aprendre le java
+	
+	NuggetReckt#0464
 
 	Bye ;)
