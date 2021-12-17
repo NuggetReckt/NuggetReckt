@@ -1,11 +1,11 @@
-	Salut à toi !
-	Moi c'est NuggetReckt, laisse moi me présenter
+	Hi !
+	I'm NuggetReckt, let me introduce myself
 
-	🔸J'ai 17 ans
-	🔸Pour projet de faire une école supérieure en informatique
-	🔸Je développe en html et css quelques fois...
-	🔸Je suis en train d'aprendre le java
+	🔸 I'm 17 years old
+	🔸 Owner of NoSkillWorld
+	🔸 Developer on my account in html5/css3
+	🔸 Currently learning java
 	
-	NuggetReckt#0464
+	Contact me on discord : NuggetReckt#0464
 
 	Bye ;)
