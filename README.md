@@ -1,7 +1,7 @@
 	Hi!
 	I'm NuggetReckt, let me introduce myself
 
-	🔸 I'm 17 years old
+	🔸 I'm a 17 years old student
 	🔸 Owner of NoSkillWorld
 	🔸 Developer on my account in html5/css3 and soon java
 	🔸 Currently learning java
