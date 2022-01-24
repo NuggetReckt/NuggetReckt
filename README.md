@@ -1,9 +1,6 @@
 ### Hi!
 I'm NuggetReckt, let me introduce myself 👋
 
-<p align="left"> <a href="https://twitter.com/NuggetReckt" target="_blank" ><img src="https://img.shields.io/twitter/follow/nuggetreckt?logo=twitter&style=for-the-badge" alt="nuggetreckt"/></a> 
-<a href="https://discord.noskillworld.fr" target="_blank" ><img src="https://img.shields.io/badge/NoSkillWorld-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nuggetreckt"/></a></p>
-
 <h4 align="left">About me:</h4>
 	🔸 I'm a 17 years old student<br>
 	🔸 Owner of NoSkillWorld<br>
@@ -35,3 +32,7 @@ I'm NuggetReckt, let me introduce myself 👋
   
 <h4 align="left">Stats:</h4>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuggetreckt&theme=blue-green" alt="nuggetreckt"/></p>
+
+	  
+<p align="left"> <a href="https://twitter.com/NuggetReckt" target="_blank" ><img src="https://img.shields.io/twitter/follow/nuggetreckt?logo=twitter&style=for-the-badge" alt="nuggetreckt"/></a> 
+<a href="https://discord.noskillworld.fr" target="_blank" ><img src="https://img.shields.io/badge/NoSkillWorld-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nuggetreckt"/></a></p>
