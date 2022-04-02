@@ -22,7 +22,7 @@ I'm NuggetReckt, let me introduce myself 👋
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/VSC-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&color=black" alt="nuggetreckt"/>
 </p>
 
 <h4 align="left">Contact Me:</h4>
