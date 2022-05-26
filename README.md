@@ -4,7 +4,7 @@ I'm NuggetReckt, let me introduce myself 👋
 <h4 align="left">About me:</h4>
 	🔸 I'm a 18 years old student<br>
 	🔸 Owner of NoSkillWorld<br>
-	🔸 Developer on my account in html5/css3 and soon java<br>
+	🔸 Like developing websites in Html/css<br>
 	🔸 Currently learning Java, Python and PHP<br>
 
 <h4 align="left">My Knowledge:</h4>
