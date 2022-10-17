@@ -1,10 +1,10 @@
 ### Hi, I'm NuggetReckt, let me introduce myself! 👋
  
 <h4 align="left">About me:</h4>
-	🔸 I'm a 18 years old student<br>
-	🔸 Owner of NoSkillWorld<br>
-	🔸 Like developing websites in Html/css<br>
-	🔸 Currently learning Java and PHP<br>
+ 	🔹 I'm a 18 years old student<br>
+	🔹 Owner of NoSkillWorld<br>
+	🔹 Like developing websites in HTML/PHP/CSS<br>
+	🔹 Currently learning Java and JavaScript<br>
 
 <h4 align="left">My Knowledge:</h4>
 <p align="left"> 
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/PHP-%8993be.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="nuggetreckt"/>
 </p>
 
 
