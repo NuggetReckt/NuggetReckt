@@ -7,12 +7,12 @@
 	🔹 Currently learning Java and JavaScript<br>
 
 <h4 align="left">My Knowledge:</h4>
-<p align="left"> 
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-%8993BE.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/PHP-%8993be.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="nuggetreckt"/>
 </p>
 
 
