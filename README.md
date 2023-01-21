@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="nuggetreckt"/>
 </p>
 
+<h4 align="left">My Project:</h4>
+<p align="left">
+  <a href="https://discord.noskillworld.fr" target="_blank" ><img src="https://img.shields.io/badge/NoSkillWorld-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nsw"/></a>
+  <a href="https://discord.ctoutpt.fr" target="_blank" ><img src="https://img.shields.io/badge/CTOUTPT.fr-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nsw"/></a>
+</p>
 
 <h4 align="left">My tools:</h4>
 <p align="left">
@@ -33,7 +38,3 @@
   
 <h4 align="left">Stats:</h4>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuggetreckt&theme=blue-green" alt="nuggetreckt"/></p>
-
-	  
-<p align="left"> <a href="https://twitter.com/NuggetReckt" target="_blank" ><img src="https://img.shields.io/twitter/follow/nuggetreckt?logo=twitter&style=for-the-badge" alt="nuggetreckt"/></a> 
-<a href="https://discord.noskillworld.fr" target="_blank" ><img src="https://img.shields.io/badge/NoSkillWorld-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nuggetreckt"/></a></p>
