@@ -37,7 +37,7 @@
 <p align="left"> 
   <a href="https://twitter.com/NuggetReckt" target="_blank"><img src="https://img.shields.io/badge/NuggetReckt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="nuggetreckt"/>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/NuggetReckt-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="nuggetreckt"/>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/NuggetReckt%200464-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nuggetreckt"/></p>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/NuggetReckt-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nuggetreckt"/></p>
   
 <h4 align="left">Stats:</h4>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuggetreckt&theme=blue-green" alt="nuggetreckt"/></p>
