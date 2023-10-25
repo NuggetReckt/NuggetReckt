@@ -2,7 +2,7 @@
  
 <h4 align="left">About me:</h4>
  	🔹 I'm a 19 years old french student<br>
- 	🔹 Currently studying at Epitech, Paris<br>
+ 	🔹 Currently studying at {Epitech.}, Paris<br>
 	🔹 Owner of NoSkillWorld, a minecraft server<br>
 	🔹 Like developing websites in HTML/PHP/CSS<br>
 	🔹 Currently learning Java and JavaScript and C<br>
