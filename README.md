@@ -5,7 +5,7 @@
  	🔹 Currently studying at {Epitech.}, Paris<br>
 	🔹 Owner of NoSkillWorld, a minecraft server<br>
 	🔹 Like developing websites in HTML/PHP/CSS<br>
-	🔹 Currently learning Java and JavaScript and C<br>
+	🔹 Currently learning Java, JavaScript and C<br>
 
 <h4 align="left">My Knowledge:</h4>
 <p align="left">
