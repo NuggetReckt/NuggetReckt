@@ -23,7 +23,7 @@
 
 <h4 align="left">My tools:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/IntelliJ-IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="nuggetreckt"/>
