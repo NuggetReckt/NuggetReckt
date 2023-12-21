@@ -33,7 +33,6 @@
 <h4 align="left">My Projects:</h4>
 <p align="left">
   <a href="https://discord.noskillworld.fr" target="_blank"><img src="https://img.shields.io/badge/NoSkillWorld-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nsw"/></a>
-  <a href="https://discord.ctoutpt.fr" target="_blank"><img src="https://img.shields.io/badge/CTOUTPT.fr-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nsw"/></a>
 </p>
 
 <h4 align="left">Contact Me:</h4>
