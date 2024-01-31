@@ -33,7 +33,7 @@
 <h4 align="left">My current project:</h4>
 <p align="left">
   <a href="https://discord.noskillworld.fr" target="_blank"><img src="https://img.shields.io/badge/NoSkillWorld-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="nsw"/></a>
-  <a href="https://github.com/NoSkillWorld" target="_blank"><img src="https://img.shields.io/badge/NuggetReckt-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="noskillworld"/></a>
+  <a href="https://github.com/NoSkillWorld" target="_blank"><img src="https://img.shields.io/badge/NoSkillWorld-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="noskillworld"/></a>
 </p>
 
 <h4 align="left">Contact me:</h4>
