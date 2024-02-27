@@ -9,16 +9,19 @@
 
 <h4 align="left">My knowledge:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-FF9725.svg?style=for-the-badge&logo=Java&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/Java-FF9725.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/C-00589D.svg?style=for-the-badge&logo=C&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/Python-3270A1.svg?style=for-the-badge&logo=python&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/PHP-787CB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="nuggetreckt"/> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/Apache-C71A36.svg?style=for-the-badge&logo=apache&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/Debian-D80150.svg?style=for-the-badge&logo=debian&logoColor=white" alt="nuggetreckt"/>
   <img src="https://img.shields.io/badge/mysql-00618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="nuggetreckt"/>
 </p>
 
 <h4 align="left">My tools:</h4>
