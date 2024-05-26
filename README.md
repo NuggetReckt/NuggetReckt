@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm NuggetReckt, let me introduce myself!
  
 <h4 align="left">About me:</h4>
- 	🔹 I'm a 19 years old french student<br>
+ 	🔹 I'm a 20 years old french student<br>
  	🔹 Currently studying at {Epitech.}, Paris<br>
 	🔹 Owner of NoSkillWorld, a minecraft server<br>
 	🔹 Like developing websites in HTML/PHP/CSS<br>
