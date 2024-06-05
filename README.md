@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="nuggetreckt"/>
 </p>
 
-[![test](https://skillicons.dev/icons\?i\=html,css,js,php,py,java,maven,c,mysql,linux,bash,git,cloudflare&perline=3)](https://skillicons.dev)
+[![test](https://skillicons.dev/icons\?i\=html,css,js,php,py,java,maven,c,mysql,linux,bash,git,cloudflare&perline=4)](https://skillicons.dev)
 
 <h4 align="left">My tools:</h4>
 <p align="left">
