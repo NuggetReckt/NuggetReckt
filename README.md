@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm NuggetReckt, let me introduce myself!
  
 <h4 align="left">About me:</h4>
- 	🔹 I'm a 20 years old french student<br>
+ 	🔹 I'm a 21 years old french student<br>
  	🔹 Currently studying at {Epitech.}, Paris<br>
 	🔹 Owner of NoSkillWorld, a minecraft server<br>
 	🔹 Like developing websites in HTML/PHP/CSS<br>
-	🔹 Currently learning C++, Assembly & Haskell<br>
+	🔹 Currently learning C++<br>
 
 <h4 align="left">My knowledge:</h4>
 <p align="left">
