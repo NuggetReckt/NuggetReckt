@@ -3,25 +3,27 @@
 <h4 align="left">About me:</h4>
  	🔹 I'm a 21 years old french student<br>
  	🔹 Currently studying at {Epitech.}, Paris<br>
-	🔹 Owner of NoSkillWorld, a minecraft server<br>
-	🔹 Like developing websites in HTML/PHP/CSS<br>
+	🔹 Owner of NoSkillWorld, a minecraft server
+	🔹 Passionate about computer science and tech in general<br>
 	🔹 Currently learning C++<br>
 
 <h4 align="left">My knowledge:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-FF9725.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/C-00589D.svg?style=for-the-badge&logo=C&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/Python-3270A1.svg?style=for-the-badge&logo=python&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/PHP-787CB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="nuggetreckt"/> 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/Apache-C71A36.svg?style=for-the-badge&logo=apache&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/Debian-D80150.svg?style=for-the-badge&logo=debian&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/mysql-00618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="nuggetreckt"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="nuggetreckt"/>
+  <img src="https://img.shields.io/badge/Java-FF9725.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="maven"/>
+  <img src="https://img.shields.io/badge/C-00589D.svg?style=for-the-badge&logo=C&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/C++-024585.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cpp"/>
+  <img src="https://img.shields.io/badge/Python-3270A1.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/PHP-787CB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php"/> 
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/JS-F7E01D.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="js"/>
+  <img src="https://img.shields.io/badge/Apache-C71A36.svg?style=for-the-badge&logo=apache&logoColor=white" alt="apache"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="md"/>
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Debian-D80150.svg?style=for-the-badge&logo=debian&logoColor=white" alt="debian"/>
+  <img src="https://img.shields.io/badge/mysql-00618A.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/>
 </p>
 
 <h4 align="left">My tools:</h4>
