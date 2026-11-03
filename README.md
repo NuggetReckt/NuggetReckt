@@ -3,7 +3,6 @@
 <h3 align="left">About me:</h3>
  	🔹 I'm a 22 years old french student<br>
  	🔹 Currently studying at {Epitech.}, Paris<br>
-	🔹 Owner of NoSkillWorld, a minecraft server<br>
 	🔹 Passionate about computer science and tech in general<br>
 	🔹 Currently learning C# (.NET) and GDScript<br>
 
